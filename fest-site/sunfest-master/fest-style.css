@@ -10,7 +10,7 @@ body {
   font-size: 15px;
   font-weight: normal;
   color: hsl(0, 0%, 90%);
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 @font-face {

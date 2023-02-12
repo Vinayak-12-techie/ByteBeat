@@ -10,6 +10,7 @@ body {
   font-size: 15px;
   font-weight: normal;
   color: hsl(0, 0%, 90%);
+  overflow: hidden;
 }
 
 @font-face {
@@ -620,3 +621,5 @@ body {
   align-items: right;
   margin-left: 1050px;
 }
+
+
